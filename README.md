@@ -4,3 +4,7 @@
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
+<h3>Mapa do site:</h3>
+<img src="imagem\IMG-20250325-WA0182.jpg" alt="Imagem do mapa do site">
+<h4>Wireframe:</h3>
+<img src="imagem\site  (1).jpg" alt="imagem do wireframe">
